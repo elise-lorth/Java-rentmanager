@@ -1,0 +1,8 @@
+com.epf.rentmanager.dao
+com.epf.rentmanager.exception
+com.epf.rentmanager.model
+com.epf.rentmanager.persistence
+com.epf.rentmanager.service
+com.epf.rentmanager.ui
+com.epf.rentmanager.ui.servlets
+com.epf.rentmanager.utils
